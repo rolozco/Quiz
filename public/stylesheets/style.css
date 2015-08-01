@@ -16,3 +16,24 @@ nav span             { margin: 0px 10px 0px 0px;
 .right 				 {float: right;}
 
 .quiz_img 			 { height: 150px; float: left;}
+#preguntas {
+  height: 25%;
+  overflow: auto;
+  width: 80%;
+  margin: 20px;
+}
+
+#preguntas  td{
+  padding-left : 15px;
+}
+.capitaliza{
+  text-transform: capitalize;
+}
+
+.contenedor * {
+  margin-top: 5px;
+}
+
+.rem {
+  text-align: right;
+}
